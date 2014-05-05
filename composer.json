@@ -1,5 +1,5 @@
 {
-    "name": "SergeyKozlov/siphash",
+    "name": "vide.me/siphash",
     "description": "siphash for php on heroku",
     "require": {
         "php": ">=5.3.0"
